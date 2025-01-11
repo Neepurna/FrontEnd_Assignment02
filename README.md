@@ -1,4 +1,4 @@
-# Basic Calculator Application
+# Intro to Components
 
 ## Student Information
 - **Name:** Neepurna Baral
