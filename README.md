@@ -4,14 +4,13 @@
 - **Name:** Neepurna Baral
 - **Student ID:** 101586698
 - **Course:** Front End Development
-- **Assignment:** 01
+- **Assignment:** 02
 
 ## Project Description
-This project implements a basic calculator using JavaScript, React, and modern CSS. The calculator supports fundamental arithmetic operations including:
-- Addition
-- Subtraction
-- Multiplication
-- Division
+The project involves:
+- Setting up a React environment.
+- Creating and styling a basic React component.
+- Developing a reusable "Greeter" component and integrating it into the main application.
 
 
 ## Setup Instructions
